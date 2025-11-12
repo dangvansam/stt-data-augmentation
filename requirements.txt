@@ -1,0 +1,10 @@
+pydub
+numba
+# numba==0.48
+librosa
+# librosa==0.7.2
+SoundFile
+auditok
+audiomentations
+numpy
+# numpy==1.21.6
